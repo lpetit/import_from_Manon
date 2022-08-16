@@ -8,7 +8,7 @@ on `SCIL <https://github.com/scilus>`__.
 See https://scil-documentation.readthedocs.io/ for installation and documentation.
 
 
-.. image:: ../data/pipeline_summary.png
+.. image:: pipeline_summary.png
    :scale: 50 %
    :align: center
 
@@ -88,6 +88,21 @@ To generate mean image for each measure, we run scilpy python script:
 
   # Standard deviation images
   scil_image_math.py sd *fa*.nii.gz sd_fa_healthy_control.nii.gz
+  
+
+Bundles segmentation
+---------------------
+
+.. image:: bundles_segmentation.png
+   :scale: 50 %
+   :align: center
+
+Bundles profiling
+---------------------
+
+.. image:: bundles_profiling.png
+   :scale: 50 %
+   :align: center
 
 
 Consistency analysis
