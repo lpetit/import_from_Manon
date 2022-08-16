@@ -13,8 +13,7 @@ See https://scil-documentation.readthedocs.io/ for installation and documentatio
    :align: center
 
 
-- For DWI and T1 processing : `Tractoflow <https://github.com/scilus/tractoflow>`__ and
-`NODDI <https://github.com/scilus/noddi_flow>`__
+- For DWI and T1 processing : `Tractoflow <https://github.com/scilus/tractoflow>`__ and `NODDI <https://github.com/scilus/noddi_flow>`__
 - For ihMT processing : `ihMTflow <https://github.com/scilus/ihmtflow>`__
 
 Table describe all metrics maps which will be evaluated.
