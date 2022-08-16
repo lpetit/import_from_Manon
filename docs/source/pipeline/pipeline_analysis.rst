@@ -9,7 +9,7 @@ See https://scil-documentation.readthedocs.io/ for installation and documentatio
 
 
 .. image:: pipeline_summary.png
-   :scale: 50 %
+   :scale: 30 %
    :align: center
 
 
@@ -94,14 +94,14 @@ Bundles segmentation
 ---------------------
 
 .. image:: bundles_segmentation.png
-   :scale: 50 %
+   :scale: 30 %
    :align: center
 
 Bundles profiling
 ---------------------
 
 .. image:: bundles_profiling.png
-   :scale: 50 %
+   :scale: 30 %
    :align: center
 
 
