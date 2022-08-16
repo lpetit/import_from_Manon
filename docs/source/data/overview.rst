@@ -39,6 +39,8 @@ The main coherence results are summarized in the following figure :
    :align: center
 
 
- The tools described and used are developed by the Sherbrooke Connectivity Imaging Lab (`SCIL`_)
+Tools
+------
+The tools described and used are developed by the Sherbrooke Connectivity Imaging Lab (`SCIL`_)
 
- .. _SCIL: http://scil.usherbrooke.ca/en/
+.. _SCIL: http://scil.usherbrooke.ca/en/
