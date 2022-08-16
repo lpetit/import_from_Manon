@@ -29,10 +29,9 @@ Contents
 
    pipeline/pipeline_analysis
 
-
 .. toctree::
-    :maxdepth: 1
-    :caption: Results
+   :maxdepth: 1
+   :caption: Pipeline
 
    results/resultsv2
    
