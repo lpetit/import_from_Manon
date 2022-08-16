@@ -9,7 +9,7 @@ For each measures plot "dynamic" 3d image possible ? Guillaume ? Sinon static
 Diffusion DTI
 ^^^^^^^^^^^^^
 .. raw:: html
-  :file: static-dynamic/fa.html  # see with Guillaume
+  :file: results/fa.html  # see with Guillaume
 .. raw:: html
   :file: static/md.html
 .. raw:: html
@@ -57,7 +57,7 @@ Correlation across measures and bundles
 ---------------------------------------
 
 .. raw:: html
-  :file: correlation/corr_heatmap.html
+  :file: results/heatmap_test.html
 
 
 
@@ -67,23 +67,8 @@ Measure and Consistency
 Whole-Bundle Measures
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
-Diffusion DTI
-~~~~~~~~~~~~~~~~~~~~~~~
-
-
-measures
-********
-
-
-Diffusion HARDI
-~~~~~~~~~~~~~~~~~~~~~~~
-
-Diffusion NODDI
-~~~~~~~~~~~~~~~~~~~~~~~
-
-Magnetization transfer image
-~~~~~~~~~~~~~~~~~~~~~~~
+.. raw:: html
+  :file: results/dotplot_same_range.html
 
 
 Whole-Bundle Consistency
