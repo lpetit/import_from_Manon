@@ -26,7 +26,7 @@ Pipeline summary
 The main steps of the analysis are summarized in the figure below.
 
 .. image:: ../pipeline/pipeline_summary.png
-   :scale: 50 %
+   :scale: 30 %
    :align: center
 
 
@@ -35,7 +35,7 @@ Consistency summary
 The main coherence results are summarized in the following figure :
 
 .. image:: summary_consistency.png
-   :scale: 50 %
+   :scale: 30 %
    :align: center
 
 
