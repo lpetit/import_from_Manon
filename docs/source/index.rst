@@ -31,7 +31,7 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Pipeline
+   :caption: Results
 
    results/resultsv2
    
