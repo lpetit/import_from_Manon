@@ -1,9 +1,13 @@
-Template for the Read the Docs tutorial
+The high-frequency MRI database
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+The high-frequency MRI database is a repeated-measure study that collects
+multiple microstructural MRI data with a high number of MRI acquisitions over 
+a short period of time in healthy subjects. 
+This high-frequency dataset was designed to generate enough data per
+subject to optimize a relevant assessment of the consistency of different brain
+MRI measurements. 
 
-Read the tutorial here:
+See paper : coming soon
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://docs.readthedocs.io/
