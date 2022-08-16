@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   data_description
+   pipeline_analyse
