@@ -4,7 +4,7 @@ Results
 Averaged measures in common space
 ---------------------------------
 
-# For each measures plot "dynamic" 3d image possible ? Guillaume ? Sinon static
+For each measures plot "dynamic" 3d image possible ? Guillaume ? Sinon static
 
 Diffusion DTI
 ^^^^^^^^^^^^^
@@ -71,8 +71,10 @@ Whole-Bundle Measures
 Diffusion DTI
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-template generation
-____________________
+
+measures
+********
+
 
 Diffusion HARDI
 ~~~~~~~~~~~~~~~~~~~~~~~
