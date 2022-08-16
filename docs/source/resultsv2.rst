@@ -42,6 +42,50 @@ Magnetization transfer image
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. raw:: html
   :file: static/MTR.html
+.. raw:: htmlResults
+=================
+
+Averaged measures in common space
+---------------------------------
+
+# For each measures plot "dynamic" 3d image possible ? Guillaume ? Sinon static
+
+Diffusion DTI
+^^^^^^^^^^^^^
+.. raw:: html
+  :file: static-dynamic/fa.html  # see with Guillaume
+.. raw:: html
+  :file: static/md.html
+.. raw:: html
+  :file: static/rd.html
+.. raw:: html
+  :file: static/ad.html
+
+
+Diffusion HARDI
+^^^^^^^^^^^^^^^^^
+.. raw:: html
+  :file: static/afd_total.html
+.. raw:: html
+  :file: static/nufo.html
+
+
+Diffusion NODDI
+^^^^^^^^^^^^^^^^
+.. raw:: html
+  :file: static/icvf.html
+.. raw:: html
+  :file: static/ecvf.html
+.. raw:: html
+  :file: static/isovf.html
+.. raw:: html
+  :file: static/od.html
+
+
+Magnetization transfer image
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. raw:: html
+  :file: static/MTR.html
 .. raw:: html
   :file: static/MTsat.html
 .. raw:: html
@@ -58,162 +102,150 @@ Correlation across measures and bundles
 
 
 
+Measure and Consistency
+------------------------
 
-Whole bundles
--------------
+Whole-Bundle Measures
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-Measures across bundles
+Diffusion DTI
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Whole bundles
--------------
-
-Diffusion DTI
-^^^^^^^^^^^^^^
-
 Diffusion HARDI
-^^^^^^^^^^^^^^^^
-
-Diffusion NODDI
-^^^^^^^^^^^^^^^^^
-
-Magnetization transfer image
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
-Consistency across bundles
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Diffusion DTI
-^^^^^^^^^^^^^^
-
-Diffusion HARDI
-^^^^^^^^^^^^^^^^
-
-Diffusion NODDI
-^^^^^^^^^^^^^^^^^
-
-Magnetization transfer image
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
-
-
-Profile bundles
----------------
-
-Measures across bundles
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Whole bundles
--------------
-
-Diffusion DTI
-^^^^^^^^^^^^^^
-
-Diffusion HARDI
-^^^^^^^^^^^^^^^^
-
 Diffusion NODDI
-^^^^^^^^^^^^^^^^^
-
-Magnetization transfer image
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
-Consistency across bundles
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Diffusion DTI
-^^^^^^^^^^^^^^
-
-Diffusion HARDI
-^^^^^^^^^^^^^^^^
-
-Diffusion NODDI
-^^^^^^^^^^^^^^^^^
-
-Magnetization transfer image
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
-
-
-
-Impact of Fiber population  Whole bundles - Consistency of measures (ou 3eme categorie dans les autres pour pas démultiplier)
-----------------------------------------------------------
-Measures across bundles
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Whole bundles
--------------
-
-Diffusion DTI
-^^^^^^^^^^^^^^
-
-Diffusion HARDI
-^^^^^^^^^^^^^^^^
-
-Diffusion NODDI
-^^^^^^^^^^^^^^^^^
-
 Magnetization transfer image
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
-Consistency across bundles
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Diffusion DTI
-^^^^^^^^^^^^^^
-
-Diffusion HARDI
-^^^^^^^^^^^^^^^^
-
-Diffusion NODDI
-^^^^^^^^^^^^^^^^^
-
-Magnetization transfer image
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
-Profile bundles
----------------
-Measures across bundles
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+
+Whole-Bundle Consistency
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Diffusion DTI
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Diffusion HARDI
-^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Diffusion NODDI
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Magnetization transfer image
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+Profile-Bundle Measures
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Diffusion DTI
+~~~~~~~~~~~~~~~~~~~~~~~
+*FA
+*MD
+*RD
+*RD
+
+Diffusion HARDI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Diffusion NODDI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Magnetization transfer image
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+Profile-Bundle Consistency
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Diffusion DTI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Diffusion HARDI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Diffusion NODDI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Magnetization transfer image
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+Impact of Fiber population
+---------------------------
+Whole-Bundle Measures
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-
-Consistency across bundles
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Diffusion DTI
-^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Diffusion HARDI
-^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Diffusion NODDI
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Magnetization transfer image
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Whole-Bundle Consistency
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Diffusion DTI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Diffusion HARDI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Diffusion NODDI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Magnetization transfer image
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+Profile-Bundle Measures
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Diffusion DTI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Diffusion HARDI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Diffusion NODDI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Magnetization transfer image
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+Profile-Bundle Consistency
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Diffusion DTI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Diffusion HARDI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Diffusion NODDI
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Magnetization transfer image
+~~~~~~~~~~~~~~~~~~~~~~~
