@@ -8,14 +8,14 @@ Twenty healthy adults (mean age 36 years, age range 29-46 y.o.(SD = 4.7),
 of Sherbrooke (CHUS) using a clinical 3T MRI scanner (Ingenia, Philips
 Healthcare, Best, Netherlands) with a 32-channel head coil.
 
-.. image:: ../data/acquisition_description.png
+.. image:: acquisition_description.png
    :scale: 50 %
    :align: center
 
 Data conversion: DICOM to BIDS
 ------------------------------
 
-To convert data we use theBIDS standard <http://bids.neuroimaging.io/
+To convert data we use BIDS standard <http://bids.neuroimaging.io/
 An example of the data structure for one subject is shown below:
 
 ::
@@ -71,7 +71,7 @@ See https://github.com/scilus/dmriqc_flow
 +Ref guillaume
 
 
-Example of datasets (+ param des images ?) provide gif
+Example of datasets 
 -------------------
 
 ** DWI **
