@@ -9,14 +9,7 @@ Averaged measures in common space
 Diffusion DTI
 ^^^^^^^^^^^^^
 .. raw:: html
-  :file: static-dynamic/fa.html  # see with Guillaume
-.. raw:: html
-  :file: static/md.html
-.. raw:: html
-  :file: static/rd.html
-.. raw:: html
-  :file: static/ad.html
-
+  :file: heatmap_test.html  # see with Guillaume
 
 Diffusion HARDI
 ^^^^^^^^^^^^^^^^^
