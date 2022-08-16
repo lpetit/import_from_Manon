@@ -4,23 +4,24 @@ Results
 Averaged measures in common space
 ---------------------------------
 
-# For each measures plot "dynamic" 3d image possible ? Guillaume ? Sinon static
+For each measures plot "dynamic" 3d image possible ? Guillaume ? Sinon static
 
 Diffusion DTI
 ^^^^^^^^^^^^^
+
 .. raw:: html
-  :file: heatmap_test.html  # see with Guillaume
+  :file: heatmap_test.html 
 
 Diffusion HARDI
 ^^^^^^^^^^^^^^^^^
+
 .. raw:: html
-  :file: static/afd_total.html
-.. raw:: html
-  :file: static/nufo.html
+  :file: dotplot_same_range.html 
 
 
 Diffusion NODDI
 ^^^^^^^^^^^^^^^^
+
 .. raw:: html
   :file: static/icvf.html
 .. raw:: html
@@ -41,9 +42,6 @@ Magnetization transfer image
   :file: static/ihMTR.html
 .. raw:: html
   :file: static/ihMTdR1sat.html
-
-
-
 
 
 Correlation across measures and bundles
