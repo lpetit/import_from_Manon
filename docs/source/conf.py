@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'The high-frequency MRI database'
+copyright = '2022, Edde'
+author = 'Edde'
 
 release = '0.1'
 version = '0.1.0'
