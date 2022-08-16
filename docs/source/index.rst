@@ -17,7 +17,20 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Data
 
-   data_description
-   pipeline_analyse
-   resultsv2
+   data/overview
+   data/data_description
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Pipeline
+
+   pipeline/pipeline_analysis
+
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Results
+
