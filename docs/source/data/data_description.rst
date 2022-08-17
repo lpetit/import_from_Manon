@@ -11,7 +11,6 @@ Healthcare, Best, Netherlands) with a 32-channel head coil.
 Study design - 20 healthy subjects
 
 .. image:: acquisition_design.png
-   :scale: 30 %
    :align: center
    
 Each MRI session include : 
