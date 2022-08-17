@@ -27,9 +27,9 @@ Profile-Bundle Measures
 
 Diffusion DTI
 ~~~~~~~~~~~~~~~~~~~~~~~
-** FA **
+
 .. raw:: html
-  :file: dotplot_adapted_range.html
+  :file: dotplot_same_range.html
 
 Diffusion HARDI
 ~~~~~~~~~~~~~~~~~~~~~~~
