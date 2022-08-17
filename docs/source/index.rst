@@ -1,10 +1,12 @@
 Welcome to the High-frequency MRI database documentation
 =========================================================
 
-TractoFlow pipeline is developed by the Sherbrooke Connectivity Imaging Lab (`SCIL`_)
-in order to process diffusion MRI dataset from the raw data to the tractography.
-The pipeline is based on Nextflow and Singularity. The goal with this pipeline
-is to be fast and reproducible.
+The high-frequency MRI database is a repeated-measure study that collects multiple
+microstructural MRI data with a high number of MRI acquisitions over a short period
+of time in healthy subjects. This dataset was designed to optimize a relevant
+assessment of the consistency of different brain MRI measurements.
+
+The tools described and used are developed by the Sherbrooke Connectivity Imaging Lab (`SCIL`_).
 
 .. _SCIL: http://scil.usherbrooke.ca/en/
 
