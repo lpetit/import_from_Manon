@@ -3,18 +3,17 @@ MRI Processing
 
 Tools
 ---------------
-For MRI images processing all processing tools were availables
-on `SCIL <https://github.com/scilus>`__.
+Tools used for all MRI images processing were availables on `SCIL <https://github.com/scilus>`__.
 See https://scil-documentation.readthedocs.io/ for installation and documentation.
 
+ - For DWI and T1 processing we used `Tractoflow <https://github.com/scilus/tractoflow>`__ and `NODDI <https://github.com/scilus/noddi_flow>`__
+ 
+ - For ihMT processing we used `ihMTflow <https://github.com/scilus/ihmtflow>`__
 
 .. image:: pipeline_summary.png
    :scale: 10 %
    :align: center
 
-
- - For DWI and T1 processing we used `Tractoflow <https://github.com/scilus/tractoflow>`__ and `NODDI <https://github.com/scilus/noddi_flow>`__
- - For ihMT processing we used `ihMTflow <https://github.com/scilus/ihmtflow>`__
 
 
 Metrics generated
