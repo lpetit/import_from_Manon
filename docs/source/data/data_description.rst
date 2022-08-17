@@ -8,9 +8,19 @@ Twenty healthy adults (mean age 36 years, age range 29-46 y.o.(SD = 4.7),
 of Sherbrooke (CHUS) using a clinical 3T MRI scanner (Ingenia, Philips
 Healthcare, Best, Netherlands) with a 32-channel head coil.
 
-.. image:: acquisition_description.png
+Study design - 20 healthy subjects
+
+.. image:: acquisition_design.png
    :scale: 30 %
    :align: center
+   
+Each MRI session include : 
+* Anatomical 3D T1-weighted (3DT1)
+* Multi-shell diffusion-weighted images (DWI)
+* Reverse phase encoding B0
+* Fluid-Attenuated Inversion Recovery (FLAIR) 
+* inhomogeneous magnetization transfer (ihMT) 
+
 
 Data conversion: DICOM to BIDS
 ------------------------------
