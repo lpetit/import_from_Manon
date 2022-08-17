@@ -6,7 +6,7 @@ Whole-Bundle consistency
 
 Diffusion DTI
 ~~~~~~~~~~~~~~~~~~~~~~~
-
+** AD **
 .. raw:: html
   :file: dotplot_same_range.html
 
