@@ -5,7 +5,7 @@ Diffusion DTI
 --------------
 
 .. raw:: html
-  :file: heatmap_test.html
+  :file: dotplot_same_range.html
 
 
 
@@ -13,7 +13,7 @@ Diffusion HARDI
 ---------------
 
 .. raw:: html
-  :file: static/afd_total.html
+  :file: heatmap_test.html
 
 
 
@@ -21,12 +21,11 @@ Diffusion NODDI
 ---------------
 
 .. raw:: html
-  :file: static/icvf.html
+  :file: heatmap_test.html
 
 
 
 Magnetization transfer image
 ----------------------------
-
 .. raw:: html
-  :file: static/MTR.html
+  :file: heatmap_test.html
