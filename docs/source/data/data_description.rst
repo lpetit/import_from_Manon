@@ -15,10 +15,15 @@ Study design - 20 healthy subjects
    :align: center
    
 Each MRI session include : 
+
 * Anatomical 3D T1-weighted (3DT1)
+
 * Multi-shell diffusion-weighted images (DWI)
+
 * Reverse phase encoding B0
+
 * Fluid-Attenuated Inversion Recovery (FLAIR) 
+
 * inhomogeneous magnetization transfer (ihMT) 
 
 
