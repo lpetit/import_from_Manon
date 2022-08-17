@@ -5,7 +5,7 @@ The high-frequency MRI database is a repeated-measure study that collects
 multiple microstructural MRI data:
     * anatomical (3DT1 and FLAIR)
     * multi-shell diffusion weighted images (DWI)
-    * inhomogeneous MT images (ihMT)
+    * inhomogeneous MT images (ihMT - MTI)
 with a high number of MRI acquisitions over a short period of time in healthy
 subjects. This high-frequency dataset was designed to generate enough data per
 subject to optimize a relevant assessment of the consistency of different brain
@@ -28,6 +28,9 @@ The main steps of the analysis are summarized in the figure below.
 .. image:: ../pipeline/pipeline_summary.png
    :scale: 1 %
    :align: center
+
+
+MTI : Magnetization Transfer Imaging, DTI: Diffusion Tensor Imaging, NODDI: Neurite Orientation Density and Dispersion Imaging, HARDI : High Angular Resolution Imaging. For a list of metrics see Table of Metrics generated in Pipeline description. 
 
 
 Consistency summary
