@@ -37,7 +37,7 @@ Our work is published in ***** (need to adapt):
 
     results/average_maps
     results/correlation
-    results/measures
+    results/measure
     results/consistency
     results/fiber_population
 
