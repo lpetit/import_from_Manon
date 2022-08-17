@@ -4,8 +4,9 @@ Correlation across measures and bundles
 Average correlation across sessions
 -----------------------------------
 
+
 .. raw:: html
-  :file: results/heatmap_test.html
+  :file: heatmap_test.html
 
 
 Average correlation across sessions
