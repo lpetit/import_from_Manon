@@ -32,14 +32,14 @@ Our work is published in ***** (need to adapt):
    pipeline/consistency_analysis
 
 .. toctree::
-    :maxdepth: 1
-    :caption: Results
+   :maxdepth: 1
+   :caption: Results
 
-    results/average_maps
-    results/correlation
-    results/measure
-    results/consistency
-    results/fiber_population
+   results/average_maps
+   results/correlation
+   results/measure
+   results/consistency
+   results/fiber_population
 
    
    
