@@ -9,12 +9,12 @@ See https://scil-documentation.readthedocs.io/ for installation and documentatio
 
 
 .. image:: pipeline_summary.png
-   :scale: 30 %
+   :scale: 10 %
    :align: center
 
 
- - For DWI and T1 processing : `Tractoflow <https://github.com/scilus/tractoflow>`__ and `NODDI <https://github.com/scilus/noddi_flow>`__
- - For ihMT processing : `ihMTflow <https://github.com/scilus/ihmtflow>`__
+ - For DWI and T1 processing we used `Tractoflow <https://github.com/scilus/tractoflow>`__ and `NODDI <https://github.com/scilus/noddi_flow>`__
+ - For ihMT processing we used `ihMTflow <https://github.com/scilus/ihmtflow>`__
 
 
 Metrics generated
@@ -38,7 +38,7 @@ Table describe all metrics maps which will be evaluated.
 +-------------------------------+--------------------+----------------------+
 | NODDI flow                    | Intra-cellular volume fraction (ICvf)     |
 +-------------------------------+--------------------+----------------------+
-|                               | Extra-cellular volume fraction (ICvf)     |
+|                               | Extra-cellular volume fraction (ECvf)     |
 +-------------------------------+--------------------+----------------------+
 |                               | Isotropic volume fraction (ISOvf)         |
 +-------------------------------+--------------------+----------------------+
@@ -57,4 +57,4 @@ Table describe all metrics maps which will be evaluated.
 Quality Control
 ---------------
 
-After processing, we check our results using `DMRI QC <https://github.com/scilus/dmriqc_flow>`__.
+After processing, all resultings maps were check using `DMRI QC <https://github.com/scilus/dmriqc_flow>`__.
