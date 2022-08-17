@@ -6,7 +6,7 @@ MRI quantitative measures
 
 Diffusion DTI
 ~~~~~~~~~~~~~~~~~~~~~~~
-** AD **
+
 .. raw:: html
   :file: dotplot_same_range.html
 
@@ -27,7 +27,7 @@ Consistency
 
 Diffusion DTI
 ~~~~~~~~~~~~~~~~~~~~~~~
-** RD **
+
 .. raw:: html
   :file: dotplot_adapted_range.html
 
