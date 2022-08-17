@@ -11,7 +11,7 @@ See https://scil-documentation.readthedocs.io/ for installation and documentatio
  - For ihMT processing we used `ihMTflow <https://github.com/scilus/ihmtflow>`__
 
 .. image:: pipeline_summary.png
-   :scale: 10 %
+   :scale: 1 %
    :align: center
 
 
