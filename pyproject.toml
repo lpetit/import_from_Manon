@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "The high-frequency MRI database"
-authors = [{name = "Manon", email = "Manon.edde@USherbrooke.ca"}]
+authors = [{name = "SCIL", email = "Manon.edde@USherbrooke.ca"}]
 dynamic = ["version", "description"]
