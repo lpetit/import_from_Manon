@@ -1,5 +1,5 @@
-Data collection
-===============
+Data description
+================
 
 Imaging Protocol
 -----------------
@@ -9,13 +9,13 @@ of Sherbrooke (CHUS) using a clinical 3T MRI scanner (Ingenia, Philips
 Healthcare, Best, Netherlands) with a 32-channel head coil.
 
 .. image:: acquisition_description.png
-   :scale: 50 %
+   :scale: 30 %
    :align: center
 
 Data conversion: DICOM to BIDS
 ------------------------------
 
-To convert data we use BIDS standard <http://bids.neuroimaging.io/
+To convert data we use `BIDS standard <http://bids.neuroimaging.io/>`__.
 An example of the data structure for one subject is shown below:
 
 ::
@@ -65,10 +65,7 @@ To convert your DICOM data folder to the compatible BIDS structure, you need to 
 Quality Control raw data
 ------------------------
 
-Quality control of raw was performed using DMRI QC flow.
-See https://github.com/scilus/dmriqc_flow
-
-+Ref guillaume
+Quality control of raw data was performed using DMRIQC flow `DMRIQC flow <https://github.com/scilus/dmriqc_flow>`__.
 
 
 Example of datasets 
