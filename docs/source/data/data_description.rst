@@ -79,16 +79,16 @@ Example of datasets GIF
 
 ** ihMT images **
 
-* Alternative_positive_MTI - pos *
+* Alternative_positive_MTI - pos
 
 
-* Alternative_negative_MTI - neg *
+* Alternative_negative_MTI - neg
 
 
-* Alternative_negative-positive_MTI - altnp *
+* Alternative_negative-positive_MTI - altnp
 
 
-* Alternative_positive-negative_MTI - altpn *
+* Alternative_positive-negative_MTI - altpn
 
 
-* T1w_MTI - t1w *
+* T1w_MTI - t1w
