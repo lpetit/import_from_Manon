@@ -5,6 +5,7 @@ Diffusion DTI
 --------------
 
 .. figure:: AD_average_map.gif
+   :width: 400
 
 
 Diffusion HARDI
@@ -18,13 +19,13 @@ Diffusion NODDI
 ---------------
 
 .. image:: AD_average_map.gif
-   :width: 400
+   :width: 200
    :alt: AD Maps
 .. image:: AD_average_map.gif
-   :width: 400
+   :width: 200
    :alt: FA maps
 .. image:: AD_average_map.gif
-   :width: 400
+   :width: 200
    :alt: RD maps
   
 
