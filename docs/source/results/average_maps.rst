@@ -8,23 +8,19 @@ Diffusion DTI
 
    .. figure:: AD_average_map.gif
 
-      AD maps.
-
-
 
 Diffusion HARDI
 ---------------
 
-.. raw:: html
-  :file: heatmap_test.html
+<img src="AD_average_map.gif"/>
 
 
 
 Diffusion NODDI
 ---------------
 
-.. raw:: html
-  :file: heatmap_test.html
+.. image:: AD_average_map.gif
+
 
 
 
