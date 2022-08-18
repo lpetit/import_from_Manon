@@ -43,8 +43,6 @@ An example of the data structure for one subject is shown below:
         ├── anat
         │   ├── sub-003-01_T1w.json
         │   ├── sub-003-01_T1w.nii.gz
-        │   ├── sub-003-01_FLAIR.json
-        │   ├── sub-003-01_FLAIR.nii.gz
         │   ├── sub-003-01_acq-pos_ihmt.json
         │   ├── sub-003-01_acq-pos_ihmt.nii.gz
         │   ├── sub-003-01_acq-neg_ihmt.json
@@ -82,14 +80,15 @@ Quality Control raw data
 Quality control of raw data was performed using DMRIQC flow `DMRIQC flow <https://github.com/scilus/dmriqc_flow>`__.
 
 
-Example of datasets GIF
+Example of datasets 
 -------------------
 
-** DWI **
-
-** T1w  **
-
-** FLAIR **
++---------------------------------+----------------------------------+-----------------------------------+
+|              3D-T1w             |                DWI               |             Reverse B0            |
++=================================+==================================+===================================+
+| .. image:: 3DT1.gif             | .. image:: dwi.gif               | .. image:: rev_b0.gif             |
+|    :width: 200                  |    :width: 200                   |    :width: 200                    |
++---------------------------------+----------------------------------+-----------------------------------+
 
 ** ihMT images **
 
