@@ -21,8 +21,6 @@ Each MRI session include :
 
 * Reverse phase encoding B0
 
-* Fluid-Attenuated Inversion Recovery (FLAIR) 
-
 * inhomogeneous magnetization transfer (ihMT) 
 
 
@@ -80,28 +78,33 @@ Quality Control raw data
 Quality control of raw data was performed using DMRIQC flow `DMRIQC flow <https://github.com/scilus/dmriqc_flow>`__.
 
 
-Example of datasets 
--------------------
+Example of datasets for one subject
+-----------------------------------
 
-+---------------------------------+----------------------------------+-----------------------------------+
-|              3D-T1w             |                DWI               |             Reverse B0            |
-+=================================+==================================+===================================+
-| .. image:: 3DT1.gif             | .. image:: dwi.gif               | .. image:: rev_b0.gif             |
-|    :width: 200                  |    :width: 200                   |    :width: 200                    |
-+---------------------------------+----------------------------------+-----------------------------------+
+** Anatonimal image **
+
++---------------------------------+
+|              3D-T1w             | 
++=================================+
+| .. image:: 3DT1.gif             |
+|    :width: 200                  |
++---------------------------------+
+
+** Anatonimal images **
+
++-----------------------+-----------------------+-----------------------+-----------------------+----------------------+
+|        DWI - b0       |  DWI - b value = 300  | DWI - b value = 1000  | DWI - b value = 2000  |   DWI - Reverse B0   |
++=======================+=======================+=======================+=======================+======================+
+| .. image:: b0.gif     |  .. image:: b300.gif  | .. image:: b1000.gif  | .. image:: b2000.gif  | .. image:: revb0.gif |
+|    :width: 200        |    :width: 200        |    :width: 200        |    :width: 200        |    :width: 200       |
++-----------------------+-----------------------+-----------------------+-----------------------+----------------------+
 
 ** ihMT images **
 
-* Alternative_positive_MTI - pos
++------------------------+-----------------------+-----------------------+-----------------------+-----------------------+----------------------+
+|           MToff        |     Positive (pos)    |    Negative (neg)     |  Alternative pos-neg  | Alternative neg-pos   |      T1w ihMT        |
++========================+=======================+=======================+=======================+=======================+======================+
+| .. image:: MToff.gif   | .. image:: MD.gif     |  .. image:: RD.gif    | .. image:: AD.gif     | .. image:: AD.gif     | .. image:: AD.gif    |
+|    :width: 200         |    :width: 200        |    :width: 200        |    :width: 200        |    :width: 200        |    :width: 200       |
++------------------------+-----------------------+-----------------------+-----------------------+-----------------------+----------------------+
 
-
-* Alternative_negative_MTI - neg
-
-
-* Alternative_negative-positive_MTI - altnp
-
-
-* Alternative_positive-negative_MTI - altpn
-
-
-* T1w_MTI - t1w
