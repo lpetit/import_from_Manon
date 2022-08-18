@@ -104,7 +104,7 @@ Example of datasets for one subject
 +------------------------+-----------------------+-----------------------+-----------------------+-----------------------+----------------------+
 |          MT-Off        |     Positive (pos)    |    Negative (neg)     |  Alternative pos-neg  | Alternative neg-pos   |      T1w ihMT        |
 +========================+=======================+=======================+=======================+=======================+======================+
-| .. image:: MToff.gif   | .. image:: MD.gif     |  .. image:: RD.gif    | .. image:: AD.gif     | .. image:: AD.gif     | .. image:: AD.gif    |
+| .. image:: mtoff.gif   | .. image:: pos.gif    |  .. image:: neg.gif   | .. image:: altpn.gif  | .. image:: altnp.gif  | .. image:: T1w.gif   |
 |    :width: 200         |    :width: 200        |    :width: 200        |    :width: 200        |    :width: 200        |    :width: 200       |
 +------------------------+-----------------------+-----------------------+-----------------------+-----------------------+----------------------+
 
