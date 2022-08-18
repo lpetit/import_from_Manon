@@ -90,7 +90,7 @@ Example of datasets for one subject
 |    :width: 200                  |
 +---------------------------------+
 
-** Anatonimal images **
+** Diffusion images **
 
 +-----------------------+-----------------------+-----------------------+-----------------------+----------------------+
 |        DWI - b0       |  DWI - b value = 300  | DWI - b value = 1000  | DWI - b value = 2000  |   DWI - Reverse B0   |
