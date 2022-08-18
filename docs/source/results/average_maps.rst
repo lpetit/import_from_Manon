@@ -4,9 +4,7 @@ Averaged measures in common space
 Diffusion DTI
 --------------
 
-.. only:: html
-
-   .. figure:: AD_average_map.gif
+.. figure:: AD_average_map.gif
 
 
 Diffusion HARDI
@@ -20,9 +18,8 @@ Diffusion NODDI
 ---------------
 
 .. image:: AD_average_map.gif
-
-
-
+  :width: 400
+  
 
 Magnetization transfer image
 ----------------------------
