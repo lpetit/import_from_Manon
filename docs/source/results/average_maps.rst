@@ -4,8 +4,11 @@ Averaged measures in common space
 Diffusion DTI
 --------------
 
-.. raw:: html
-  :file: dotplot_same_range.html
+.. only:: html
+
+   .. figure:: AD_average_map.gif
+
+      AD maps.
 
 
 
