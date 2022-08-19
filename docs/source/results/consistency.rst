@@ -3,6 +3,7 @@ Consistency
 
 Whole-Bundle consistency
 ------------------------
+
 .. raw:: html
   :file: MTR.html
 
@@ -13,8 +14,7 @@ Diffusion DTI
 |               AFD total                  |                   NuFO                 |
 +==========================================+========================================+
 | .. raw:: html                            |                                        |
-|    :file: MTR.html                       | .. html:: MTsat.html                   |
-|    :width: 200                           |    :width: 200                         |
+|    :file: MTR.html                       |                                        |
 +------------------------------------------+----------------------------------------+
 
 
