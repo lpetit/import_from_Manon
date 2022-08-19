@@ -35,7 +35,7 @@ Profile-Bundle Consistency
 
 Diffusion DTI
 ~~~~~~~~~~~~~~~~~~~~~~~
-** AFD **
+
 .. raw:: html
   :file: dotplot_adapted_range.html
 
