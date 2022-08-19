@@ -4,52 +4,40 @@ Consistency
 Whole-Bundle consistency
 ------------------------
 
-.. raw:: html
-  :file: mti.html
-
-Diffusion DTI
-~~~~~~~~~~~~~~~~~~~~~~~
-
-
-Diffusion HARDI
+Intra Class correlation
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
-  :file: MTR.html
-  :width: 200
+  :file: wb_figures/wb_ICC_hm.html
   
-
-Diffusion NODDI
+Within-Variability
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Magnetization transfer image
+.. raw:: html
+  :file: wb_figures/wb_CVw_hm.html
+
+Between-variability
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-+-----------------------+-----------------------+-----------------------+-----------------------+
-|        DWI - b0       |  DWI - b value = 300  | DWI - b value = 1000  | DWI - b value = 2000  | 
-+=======================+=======================+=======================+=======================+
-| .. raw:: html         |  .. raw:: html        | .. raw:: html         | .. raw:: html         |
-|   :file: MTR.html     |    :file: MTR.html    |    :file: MTR.html    |    :file: MTR.html    |
-+-----------------------+-----------------------+-----------------------+-----------------------+
+.. raw:: html
+  :file: wb_figures/wb_CVb_hm.html
 
-titi
+
 
 Profile-Bundle Consistency
 ------------------------
 
-Diffusion DTI
+Intra Class correlation
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-.. raw:: html
-  :file: dotplot_adapted_range.html
 
-Diffusion HARDI
+  
+Within-Variability
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Diffusion NODDI
+
+
+Between-variability
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Magnetization transfer image
-~~~~~~~~~~~~~~~~~~~~~~~
 
-Toto
