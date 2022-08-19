@@ -5,7 +5,7 @@ Whole-Bundle consistency
 ------------------------
 
 .. raw:: html
-  :file: toto.html
+  :file: mti.html
 
 Diffusion DTI
 ~~~~~~~~~~~~~~~~~~~~~~~
