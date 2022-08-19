@@ -27,7 +27,8 @@ Diffusion NODDI
 Magnetization transfer image
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-
+.. raw:: html
+  :file: MTR.html
 
 
 Profile-Bundle Consistency
