@@ -16,6 +16,7 @@ Diffusion HARDI
 
 .. raw:: html
   :file: MTR.html
+  :width: 200
   
 
 Diffusion NODDI
@@ -24,8 +25,12 @@ Diffusion NODDI
 Magnetization transfer image
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-.. raw:: html
-  :file: MTR.html
++-----------------------+-----------------------+-----------------------+-----------------------+
+|        DWI - b0       |  DWI - b value = 300  | DWI - b value = 1000  | DWI - b value = 2000  | 
++=======================+=======================+=======================+=======================+
+| .. raw:: html         |  .. raw:: html        | .. raw:: html         | .. raw:: html         |
+|   :file: MTR.html     |    :file: MTR.html    |    :file: MTR.html    |    :file: MTR.html    |
++-----------------------+-----------------------+-----------------------+-----------------------+
 
 titi
 
