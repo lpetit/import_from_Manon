@@ -15,7 +15,7 @@ Diffusion HARDI
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
-  :file: heatmap_test.html
+  :file: MTR.html
   
 
 Diffusion NODDI
