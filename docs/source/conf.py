@@ -33,13 +33,13 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
-html_theme_options = [
+html_theme_options = {
     "rightsidebar": "False",
     "relbarbgcolor": "black"
-]
+}
 
 html_css_files = [
-    'custom.css',
+    'custom.css'
 ]
 
 # -- Options for EPUB output
