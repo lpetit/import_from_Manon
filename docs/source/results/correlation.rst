@@ -6,7 +6,7 @@ Average correlation across sessions
 
 
 .. raw:: html
-  :file: heatmap_test.html
+  :file: correlation.html
 
 
 Average correlation across sessions
