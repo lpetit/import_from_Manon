@@ -34,18 +34,21 @@ AF
   :file: pb_consistency/af.html
   
   
+  
 CC 2a
 ~~~~~
 
 .. raw:: html
   :file: pb_consistency/CC_2a.html
-  
+ 
+ 
   
 CC 2b
 ~~~~
 
 .. raw:: html
   :file: pb_consistency/CC_2b.html
+  
   
   
 CC 3
@@ -55,13 +58,15 @@ CC 3
   :file: pb_consistency/CC_3.html
   
   
+  
 CC 4
 ~~~~~
 
 .. raw:: html
   :file: pb_consistency/CC_4.html
-  
-  
+ 
+ 
+ 
 CC 5
 ~~~~~
 
@@ -76,13 +81,15 @@ CC 6
   :file: pb_consistency/CC_6.html
 
 
+
 CC 7
 ~~~~~
 
 .. raw:: html
   :file: pb_consistency/CC_7.html
   
-  
+
+
 CG
 ~~~
 
@@ -96,12 +103,14 @@ CST
 .. raw:: html
   :file: pb_consistency/CST.html
   
-  
+ 
+ 
 IFOF
 ~~~~~
 
 .. raw:: html
   :file: pb_consistency/IFOF.html
+
 
 
 ILF
@@ -117,7 +126,8 @@ OR
 .. raw:: html
   :file: pb_consistency/OR.html
   
-  
+
+
 SLF 1
 ~~~~~
 
@@ -131,12 +141,14 @@ SLF 2
 .. raw:: html
   :file: pb_consistency/SLF_2.html
   
-  
+
+
 SLF 3
 ~~~~~
 
 .. raw:: html
   :file: pb_consistency/SLF_3.html
+
 
 
 UF
