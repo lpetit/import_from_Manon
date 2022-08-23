@@ -17,14 +17,16 @@ ANTs as follow:
    As we used the b0 output from tractoflow, b0 images are already
    pre-processing (including skull stripping, resampling, distorsion correction...),
    see Tractoflow description here https://tractoflow-documentation.readthedocs.io.
+   All individual subject measures maps were aligned in the common diffusion space using 
+   the nonlinear registration of each b0 resampled native map. 
 
 
-Average metrics maps
+Average measures maps
 --------------------
 
-To generate mean image for each measure, we run scilpy python script:
+To generate mean image for each measure, we run scilpy python script as follow:
 
-.. code-block:: python
+.. code-block:: bash
 
   # Mean images (example for FA map)
   scil_image_math.py mean *fa*.nii.gz mean_fa_healthy_control.nii.gz
