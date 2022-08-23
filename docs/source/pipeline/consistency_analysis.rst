@@ -50,7 +50,7 @@ Variability
 ~~~~~~~~~~~~
 
 The variability induced by within-subject and between-subject effects on the measures was quantified using 
-two coefficients of variation per measure: Within- abd Between-Variability.  
+two coefficients of variation per measure: Within- and Between-Variability.  
 
   * Within-Variability (CVw)
   CVw was used to evaluate the dispersion of observations when repeatedly measuring a single individual (i.e., reproducibility). 
