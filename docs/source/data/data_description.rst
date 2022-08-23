@@ -32,10 +32,17 @@ An example of the data structure for one subject is shown below:
 
 ::
 
-    data-multi-subject
+    data-subject
     ├── dataset_description.json
     ├── participants.json
     ├── participants.tsv
+    ├── sub-001_ses-01
+    ├── sub-001_ses-02
+    ├── sub-001_ses-03
+    ├── sub-001_ses-04
+    ├── sub-001_ses-04
+    ├── sub-002_ses-01
+    ├── ...
     ├── sub-003_ses-01
         │
         ├── anat
@@ -64,7 +71,7 @@ An example of the data structure for one subject is shown below:
 
 
 
-To convert your DICOM data folder to the compatible BIDS structure, you need to install
+To convert our DICOM data folder to the compatible BIDS structure, we used
 `dcm2bids <https://github.com/cbedetti/Dcm2Bids#install>`__.
 
 .. code-block:: bash
