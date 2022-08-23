@@ -34,7 +34,7 @@ for each bundle over session.
 
 
 
-Consistency analysis
+Consistency metrics
 --------------------
  
 
