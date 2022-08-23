@@ -1,11 +1,13 @@
 Correlation across measures and bundles
 =======================================
 
-Average correlation across sessions
------------------------------------
+
+Whole Average correlation 
+--------------------------
 
 .. raw:: html
   :file: correlations/correlation.html
+
 
 
 Average correlation across sessions
