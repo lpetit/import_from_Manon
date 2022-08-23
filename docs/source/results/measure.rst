@@ -38,7 +38,7 @@ Diffusion DTI
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
-  :file: dotplot_same_range.html
+  :file: pb_averages/AF_t.html
 
 Diffusion HARDI
 ~~~~~~~~~~~~~~~~~~~~~~~
