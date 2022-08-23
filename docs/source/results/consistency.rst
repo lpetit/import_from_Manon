@@ -30,7 +30,8 @@ Profile-Bundle Consistency
 Intra Class correlation
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-
+.. raw:: html
+  :file: pb_consistency/af.html
   
 Within-Variability
 ~~~~~~~~~~~~~~~~~~~~~~~
