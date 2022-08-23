@@ -39,7 +39,9 @@ html_theme_options = {
     "relbarbgcolor": "black"
 }
 
-html_css_files = ['custom.css']
-
+html_static_path = ['_static']
+html_css_files = [
+    'my_style.css',  # overrides for width size
+]
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
