@@ -16,8 +16,7 @@ Whole Average correlation
 --------------------------
 
 .. raw:: html
-  :file: ./correlations/correlation.html
-
+  :file: correlations/correlation.html
 
 
 Average correlation across sessions
