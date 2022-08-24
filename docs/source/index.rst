@@ -14,7 +14,7 @@ The tools described and used are developed by the Sherbrooke Connectivity Imagin
    Edde M., Theaud G., Dumont M., Théberge A., Valcourt-Caron A., Gilbert G.,
    Houde J.C., Maltais L., Rheault F.,Spagnolo F., Barakovic M., Magon S. and Descoteaux M.
    High frequency advanced longitudinal white matter MRI database: Bundles-profiling stability and more,
-   in submit at Sciences Data
+   submit at Sciences Data
 
 .. toctree::
    :maxdepth: 1
