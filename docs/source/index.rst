@@ -10,12 +10,11 @@ The tools described and used are developed by the Sherbrooke Connectivity Imagin
 
 .. _SCIL: http://scil.usherbrooke.ca/en/
 
-Our work is published in ***** (need to adapt):
 
    Edde M., Theaud G., Dumont M., Théberge A., Valcourt-Caron A., Gilbert G.,
    Houde J.C., Maltais L., Rheault F.,Spagnolo F., Barakovic M., Magon S. and Descoteaux M.
    High frequency advanced longitudinal white matter MRI database: Bundles-profiling stability and more,
-   in review in Sciences Data
+   in submit at Sciences Data
 
 .. toctree::
    :maxdepth: 1
@@ -38,6 +37,7 @@ Our work is published in ***** (need to adapt):
    :caption: Results
 
    results/average_maps
+   results/bundles_reproductibility
    results/correlation
    results/measure
    results/consistency
