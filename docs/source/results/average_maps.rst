@@ -34,9 +34,6 @@ Diffusion NODDI
 +-------------------------------------+------------------------------------+-------------------------------------+---------------------------------+
 
 
-A color version using the Jet colormap is available here: averaged_maps_colors.zip
-
-
 
 Magnetization transfer image
 ----------------------------
@@ -47,3 +44,8 @@ Magnetization transfer image
 | .. image:: averaged_maps/ihMTR.gif | .. image:: averaged_maps/ihMTdR1sat.gif |  .. image:: averaged_maps/MTR.gif | .. image:: averaged_maps/MTsat.gif |
 |    :width: 200                     |    :width: 200                          |    :width: 200                    |    :width: 200                     |
 +------------------------------------+-----------------------------------------+-----------------------------------+------------------------------------+
+
+
+
+A color version using the Jet colormap is available here: averaged_maps_colors.zip
+
