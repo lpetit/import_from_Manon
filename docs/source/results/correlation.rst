@@ -1,6 +1,16 @@
 Correlation across measures and bundles
 =======================================
 
+Pearson's correlation coefficient (r) was used to evaluate the covariance of the averaged diffusion measures for all bundles.
+For each MRI measurements, Pearson correlations were computed for each session and then averaged across sessions to generate 
+correlation map:
+
+   * average for all sessions
+   
+   * for each session individually
+
+To increase the contrast, the Pearson correlation coefficients are displayed in squared values (r^2).
+
 
 Whole Average correlation 
 --------------------------
