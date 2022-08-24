@@ -32,7 +32,11 @@ Diffusion NODDI
 | .. image:: averaged_maps/ECvf.gif   | .. image:: averaged_maps/ICvf.gif  |  .. image:: averaged_maps/ISOvf.gif | .. image:: averaged_maps/OD.gif |
 |    :width: 200                      |    :width: 200                     |    :width: 200                      |    :width: 200                  |
 +-------------------------------------+------------------------------------+-------------------------------------+---------------------------------+
-  
+
+
+A color version using the Jet colormap is available here: averaged_maps_colors.zip
+
+
 
 Magnetization transfer image
 ----------------------------
