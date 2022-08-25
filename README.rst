@@ -10,3 +10,5 @@ relevant assessment of the consistency of different brain MRI measurements.
 See paper : coming soon
 
 https://high-frequency-mri-database-supplementary.rtfd.io
+
+:file:`/docs/source/conf.py`
