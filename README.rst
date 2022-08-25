@@ -11,6 +11,5 @@ See paper : coming soon
 
 https://high-frequency-mri-database-supplementary.rtfd.io
 
+:download:`file </docs/source/conf.py>`
 
-`config
-file <https://github.com/Manonedde/High_frequency_MRI_database_Supplementary/blob/main/docs/source/conf.py`__
