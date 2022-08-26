@@ -4,10 +4,6 @@ MRI Processing
 Tools
 ---------------
 
-Results are generated and displayed with `Plotly <https://plotly.com/python/>`__. 
-The plots are interactive, when the legend is available, click on the legend items to select and/or unselect the items.
-
-
 Tools used for all MRI images processing were availables on `SCIL <https://github.com/scilus>`__.
 See https://scil-documentation.readthedocs.io/ for installation and documentation.
 
