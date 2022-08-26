@@ -41,7 +41,8 @@ The tools described and used are developed by the Sherbrooke Connectivity Imagin
    results/correlation
    results/measure
    results/consistency
-   results/fiber_population
+   results/fiber_population_measures
+   results/fiber_population_consistency
 
    
    
