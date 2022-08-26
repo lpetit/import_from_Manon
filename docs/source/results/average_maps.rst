@@ -1,6 +1,12 @@
 Averaged measures in common space
 =================================
 
+
+See section `Common space <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/pipeline/common_space.html>`_ for the method.
+
+
+
+
 Diffusion DTI
 --------------
 
