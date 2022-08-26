@@ -8,7 +8,7 @@ AF
 ~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/AF_fp_fp.html
+  :file: fiber_population_figures/fp_measures_whole/AF_fp.html
   
   
   
@@ -16,7 +16,7 @@ CC 2a
 ~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/CC_2a_fp.html
+  :file: fiber_population_figures/fp_measures_whole/CC2a_fp.html
  
  
   
@@ -24,7 +24,7 @@ CC 2b
 ~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/CC_2b_fp.html
+  :file: fiber_population_figures/fp_measures_whole/CC2b_fp.html
   
   
   
@@ -32,7 +32,7 @@ CC 3
 ~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/CC_3_fp.html
+  :file: fiber_population_figures/fp_measures_whole/CC3_fp.html
   
   
   
@@ -40,7 +40,7 @@ CC 4
 ~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/CC_4_fp.html
+  :file: fiber_population_figures/fp_measures_whole/CC4_fp.html
  
  
  
@@ -48,14 +48,14 @@ CC 5
 ~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/CC_5_fp.html
+  :file: fiber_population_figures/fp_measures_whole/CC5_fp.html
   
   
 CC 6
 ~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/CC_6_fp.html
+  :file: fiber_population_figures/fp_measures_whole/CC6_fp.html
 
 
 
@@ -63,7 +63,7 @@ CC 7
 ~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/CC_7_fp.html
+  :file: fiber_population_figures/fp_measures_whole/CC7_fp.html
   
 
 
@@ -109,14 +109,14 @@ SLF 1
 ~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/SLF_1_fp.html
+  :file: fiber_population_figures/fp_measures_whole/SLF1_fp.html
 
 
 SLF 2
 ~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/SLF_2_fp.html
+  :file: fiber_population_figures/fp_measures_whole/SLF2_fp.html
   
 
 
@@ -124,7 +124,7 @@ SLF 3
 ~~~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/SLF_3_fp.html
+  :file: fiber_population_figures/fp_measures_whole/SLF3_fp.html
 
 
 
@@ -144,7 +144,7 @@ AF
 ~~~
 
 .. raw:: html
-  :file: fiber_population_figures/fp_measures_whole/AF_fp_fp.html
+  :file: fiber_population_figures/fp_measures_whole/AF_fp.html
   
   
   
