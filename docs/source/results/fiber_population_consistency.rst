@@ -454,132 +454,133 @@ Profile-Bundle Consistency
 ------------------------
 
 
+
+
 AF
 ~~~
 
+  
  * ICC
 
 .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/AF_icc.html
-  
-  
-  
- * Within-variability
+ :file: fiber_population_figures/fp_consistency_profile/AF_icc.html
  
+ 
+ 
+* Within-variability
+
 .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/AF_cvw.html
+ :file: fiber_population_figures/fp_consistency_profile/AF_cvw.html
 
 
 
- * Between-variability
+* Between-variability
+
+.. raw:: html
+ :file: fiber_population_figures/fp_consistency_profile/AF_cvb.html
  
- .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/AF_cvb.html
-  
-  
+ 
   
 CC 2a
 ~~~~~
 
-
+  
  * ICC
 
 .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC2a_icc.html
-  
-  
-  
- * Within-variability
+ :file: fiber_population_figures/fp_consistency_profile/CC2a_icc.html
  
+ 
+ 
+* Within-variability
+
 .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC2a_cvw.html
+ :file: fiber_population_figures/fp_consistency_profile/CC2a_cvw.html
 
 
 
- * Between-variability
+* Between-variability
+
+.. raw:: html
+ :file: fiber_population_figures/fp_consistency_profile/CC2a_cvb.html
  
- .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC2a_cvb.html
-  
-  
-  
+ 
  
   
 CC 2b
 ~~~~
 
-
+  
  * ICC
 
 .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC2b_icc.html
-  
-  
-  
- * Within-variability
+ :file: fiber_population_figures/fp_consistency_profile/CC2b_icc.html
  
+ 
+ 
+* Within-variability
+
 .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC2b_cvw.html
+ :file: fiber_population_figures/fp_consistency_profile/CC2b_cvw.html
 
 
 
- * Between-variability
+* Between-variability
+
+.. raw:: html
+ :file: fiber_population_figures/fp_consistency_profile/CC2b_cvb.html
  
- .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC2b_cvb.html
-  
-  
-  
+ 
  
   
 CC 3
 ~~~~~
 
-
+  
  * ICC
 
 .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC3_icc.html
-  
-  
-  
- * Within-variability
+ :file: fiber_population_figures/fp_consistency_profile/CC3_icc.html
  
+ 
+ 
+* Within-variability
+
 .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC3_cvw.html
+ :file: fiber_population_figures/fp_consistency_profile/CC3_cvw.html
 
 
 
- * Between-variability
+* Between-variability
+
+.. raw:: html
+ :file: fiber_population_figures/fp_consistency_profile/CC3_cvb.html
  
- .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC3_cvb.html
-  
-  
-  
+ 
+ 
 CC 4
 ~~~~~
 
-
+  
  * ICC
 
 .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC4_icc.html
-  
-  
-  
- * Within-variability
+ :file: fiber_population_figures/fp_consistency_profile/CC4_icc.html
  
+ 
+ 
+* Within-variability
+
 .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC4_cvw.html
+ :file: fiber_population_figures/fp_consistency_profile/CC4_cvw.html
 
 
 
- * Between-variability
+* Between-variability
+
+.. raw:: html
+ :file: fiber_population_figures/fp_consistency_profile/CC4_cvb.html
  
- .. raw:: html
-  :file: fiber_population_figures/fp_consistency_profile/CC4_cvb.html
-  
  
  
 CC 5
@@ -893,3 +894,5 @@ UF
  :file: fiber_population_figures/fp_consistency_profile/UF_cvb.html
  
  
+
+
