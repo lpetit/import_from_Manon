@@ -1,6 +1,18 @@
 Bundles reproductibility
 ========================
 
+The reproducibility of the bundles was performed using the method described in `Rheault et al. 2022 <https://doi.org/10.1002/hbm.25777>`_ (see also `Rheault et al. 2020 <https://doi.org/10.1002/hbm.24917>`_), and generated the following reprroducibility metrics: 
+
+  * Dice scores used to check for volume overlap of all bundles over session.
+  * Density correlation at the voxel-level for streamline density of all bundles over session.
+  * Streamlines and voxel adjency used to evaluate distance between streamlines (or voxel) over session.
+
+
+.. note::
+
+   The plots are interactive, when the legend is available, click on the elements of the legend to select and/or deselect the elements.
+   Colors represents the bundle. Each dot represents reproducibility metric for one participant.
+
 
 Dice scores
 ------------------------
