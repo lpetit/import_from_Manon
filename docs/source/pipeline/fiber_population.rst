@@ -8,7 +8,9 @@ ranging from 1 for the single fiber population to 2 and more for the multiple fi
 
     See `Dell'Acqua et al. 2009 <https://archive.ismrm.org/2009/3563.html>`_ and `Dell'Acqua et al. 2013 <https://doi.org/10.1002/hbm.22080>`_.
 
-.. image:: averaged_maps/NuFO_gwm.gif 
+* NuFO averaged map
+
+.. image:: ../results/averaged_maps/NuFO_gwm.gif 
    :width: 200                         
 
 
