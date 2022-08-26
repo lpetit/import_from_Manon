@@ -15,7 +15,7 @@ Diffusion DTI
 |    :width: 200                    |    :width: 200                   |    :width: 200                   |    :width: 200                   |
 +-----------------------------------+----------------------------------+----------------------------------+----------------------------------+
 
-A color version using the Jet colormap is available here: :download:`color version<./additional_data/dti_measures.zip>`
+A color version using the Jet colormap is available here: :download:`DTI color version<./additional_data/dti_measures.zip>`
 
 
 Diffusion HARDI
@@ -28,7 +28,7 @@ Diffusion HARDI
 |    :width: 200                           |    :width: 200                         |
 +------------------------------------------+----------------------------------------+
 
-A color version using the Jet colormap is available here: :download:`color version<./additional_data/hardi_measures.zip>`
+A color version using the Jet colormap is available here: :download:`HARDI color version<./additional_data/hardi_measures.zip>`
 
 
 
@@ -42,7 +42,7 @@ Diffusion NODDI
 |    :width: 200                      |    :width: 200                     |    :width: 200                      |    :width: 200                  |
 +-------------------------------------+------------------------------------+-------------------------------------+---------------------------------+
 
-A color version using the Jet colormap is available here: :download:`color version<./additional_data/noddi_measures.zip>`
+A color version using the Jet colormap is available here: :download:`NODDI color version<./additional_data/noddi_measures.zip>`
 
 
 
@@ -56,5 +56,5 @@ Magnetization transfer image
 |    :width: 200                     |    :width: 200                          |    :width: 200                    |    :width: 200                     |
 +------------------------------------+-----------------------------------------+-----------------------------------+------------------------------------+
 
-A color version using the Jet colormap is available here: :download:`color version<./additional_data/mti_measures.zip>`
+A color version using the Jet colormap is available here: :download:`MTI color version<./additional_data/mti_measures.zip>`
 
