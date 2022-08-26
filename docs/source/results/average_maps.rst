@@ -49,9 +49,9 @@ Magnetization transfer image
 
 A color version using the Jet colormap is available here:
 
-:download:`test.zip <./download/test.zip>`_
+:download:`test.zip </data/test.zip>`_
 
-:download:`png <./download/OR_AD_RD_Pearson_Correlation.png>`
+:download:`png </data/test.png>`
 
 
 
