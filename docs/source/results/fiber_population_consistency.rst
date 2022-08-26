@@ -11,7 +11,7 @@ AF
 ~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_whole/AF_icc.html
@@ -36,7 +36,7 @@ CC 2a
 ~~~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_whole/CC2a_icc.html
@@ -62,7 +62,7 @@ CC 2b
 ~~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_whole/CC2b_icc.html
@@ -88,7 +88,7 @@ CC 3
 ~~~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_whole/CC3_icc.html
@@ -113,7 +113,7 @@ CC 4
 ~~~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_whole/CC4_icc.html
@@ -138,7 +138,7 @@ CC 5
 ~~~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_whole/CC5_icc.html
@@ -460,7 +460,7 @@ AF
 ~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_profile/AF_icc.html
@@ -485,7 +485,7 @@ CC 2a
 ~~~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_profile/CC2a_icc.html
@@ -511,7 +511,7 @@ CC 2b
 ~~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_profile/CC2b_icc.html
@@ -537,7 +537,7 @@ CC 3
 ~~~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_profile/CC3_icc.html
@@ -562,7 +562,7 @@ CC 4
 ~~~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_profile/CC4_icc.html
@@ -587,7 +587,7 @@ CC 5
 ~~~~~
 
   
- * ICC
+* ICC
 
 .. raw:: html
  :file: fiber_population_figures/fp_consistency_profile/CC5_icc.html
