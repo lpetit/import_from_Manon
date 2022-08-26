@@ -62,3 +62,8 @@ two coefficients of variation per measure: Within- and Between-Variability.
   The CVb is obtained by first averaging each subject session-wise, to then estimate the CV over those averages.
   
 
+Results
+--------------------
+
+Results are generated and displayed with `Plotly <https://plotly.com/python/>`__. 
+The plots are interactive, when the legend is available, click on the legend items to select and/or unselect the items.
