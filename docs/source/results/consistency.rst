@@ -4,25 +4,27 @@ Consistency
 Whole-Bundle consistency
 ------------------------
 
+
 Intra Class correlation
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
-  :file: wb_measures/wb_ICC_hm.html
+  :file: wb_consistency/wb_ICC_hm.html
   
   
 Within-Variability
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
-  :file: wb_measures/wb_CVw_hm.html
+  :file: wb_consistency/wb_CVw_hm.html
 
 
 Between-variability
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
-  :file: wb_measures/wb_CVb_hm.html
+  :file: wb_consistency/wb_CVb_hm.html
+
 
 
 
