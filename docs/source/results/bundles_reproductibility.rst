@@ -1,7 +1,7 @@
 Bundles reproductibility
 ========================
 
-The reproducibility of the bundles was performed using the method described in `Rheault et al. 2022 <https://doi.org/10.1002/hbm.25777>`_ (see also `Rheault et al. 2020 <https://doi.org/10.1002/hbm.24917>`_), and generated the following reprroducibility metrics: 
+The reproducibility of the bundles was performed using the method described in `Rheault et al. 2022 <https://doi.org/10.1002/hbm.25777>`_ (see also `Rheault et al. 2020 <https://doi.org/10.1002/hbm.24917>`_), and generated the following reproducibility metrics: 
 
   * Dice scores used to check for volume overlap of all bundles over session.
   * Density correlation at the voxel-level for streamline density of all bundles over session.
