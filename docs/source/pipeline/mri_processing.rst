@@ -58,3 +58,12 @@ Quality Control
 ---------------
 
 After processing, all resultings maps were check using `DMRI QC <https://github.com/scilus/dmriqc_flow>`__.
+
+
+
+
+See section `Averaged measures in common space <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/results/average_maps.html>`_ for an overview of each measurement. 
+
+See section `MRI quantitative measure <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/results/measure.html>`_ for the distribution of measurements.
+
+
