@@ -13,21 +13,21 @@ AF
  * ICC
 
 .. raw:: html
-  :file: fp_figures/fp_consistency/AF_icc.html
+  :file: fiber_population_figures/fp_consistency/AF_icc.html
   
   
   
  * Within-variability
  
 .. raw:: html
-  :file: fp_figures/fp_consistency/AF_cvw.html
+  :file: fiber_population_figures/fp_consistency/AF_cvw.html
 
 
 
  * Between-variability
  
  .. raw:: html
-  :file: fp_figures/fp_consistency/AF_cvb.html
+  :file: fiber_population_figures/fp_consistency/AF_cvb.html
   
   
   
@@ -38,21 +38,21 @@ CC 2a
  * ICC
 
 .. raw:: html
-  :file: fp_figures/fp_consistency/CC2a_icc.html
+  :file: fiber_population_figures/fp_consistency/CC2a_icc.html
   
   
   
  * Within-variability
  
 .. raw:: html
-  :file: fp_figures/fp_consistency/CC2a_cvw.html
+  :file: fiber_population_figures/fp_consistency/CC2a_cvw.html
 
 
 
  * Between-variability
  
  .. raw:: html
-  :file: fp_figures/fp_consistency/CC2a_cvb.html
+  :file: fiber_population_figures/fp_consistency/CC2a_cvb.html
   
   
   
