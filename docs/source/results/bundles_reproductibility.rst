@@ -6,6 +6,9 @@ The reproducibility of the bundles was performed using the method described in `
   * Dice scores used to check for volume overlap of all bundles over session.
   * Density correlation at the voxel-level for streamline density of all bundles over session.
   * Streamlines and voxels adjency used to evaluate distance between streamlines (or voxels) over session.
+  
+  
+See section `Bundles <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/pipeline/bundles.html>`_ for the method.
 
 
 .. note::
