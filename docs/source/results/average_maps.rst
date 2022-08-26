@@ -55,7 +55,7 @@ Magnetization transfer image
 
 A color version using the Jet colormap is available here:
 
-:download:`test.zip </data/test.zip>`_
+:download:`color version </data/test.zip>`
 
 :download:`png </data/test.png>`
 
