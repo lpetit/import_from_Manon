@@ -11,5 +11,5 @@ See paper : coming soon
 
 https://high-frequency-mri-database-supplementary.rtfd.io
 
-Config (PDF link): :download:`zip </config.py>`
+
 
