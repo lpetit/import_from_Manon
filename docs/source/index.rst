@@ -30,6 +30,7 @@ The tools described and used are developed by the Sherbrooke Connectivity Imagin
    pipeline/mri_processing
    pipeline/common_space
    pipeline/bundles
+   pipeline/fiber_population
    pipeline/consistency_analysis
 
 .. toctree::
