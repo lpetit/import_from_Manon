@@ -33,3 +33,8 @@ To generate mean image for each measure, we run scilpy python script as follow:
 
   # Standard deviation images
   scil_image_math.py sd *fa*.nii.gz sd_fa_healthy_control.nii.gz
+  
+  
+Resulting average maps are avalaible section `Averaged measures in common space <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/results/average_maps.html>`_.
+  
+  
