@@ -5,8 +5,6 @@ Averaged measures in common space
 See section `Common space <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/pipeline/common_space.html>`_ for the method.
 
 
-
-
 Diffusion DTI
 --------------
 
@@ -16,6 +14,8 @@ Diffusion DTI
 | .. image:: averaged_maps/FA.gif   | .. image:: averaged_maps/MD.gif  |  .. image:: averaged_maps/RD.gif | .. image:: averaged_maps/AD.gif  |
 |    :width: 200                    |    :width: 200                   |    :width: 200                   |    :width: 200                   |
 +-----------------------------------+----------------------------------+----------------------------------+----------------------------------+
+
+A color version using the Jet colormap is available here: :download:`color version<./additional_data/dti_measures.zip>`
 
 
 Diffusion HARDI
@@ -28,6 +28,9 @@ Diffusion HARDI
 |    :width: 200                           |    :width: 200                         |
 +------------------------------------------+----------------------------------------+
 
+A color version using the Jet colormap is available here: :download:`color version<./additional_data/hardi_measures.zip>`
+
+
 
 Diffusion NODDI
 ---------------
@@ -38,6 +41,8 @@ Diffusion NODDI
 | .. image:: averaged_maps/ECvf.gif   | .. image:: averaged_maps/ICvf.gif  |  .. image:: averaged_maps/ISOvf.gif | .. image:: averaged_maps/OD.gif |
 |    :width: 200                      |    :width: 200                     |    :width: 200                      |    :width: 200                  |
 +-------------------------------------+------------------------------------+-------------------------------------+---------------------------------+
+
+A color version using the Jet colormap is available here: :download:`color version<./additional_data/noddi_measures.zip>`
 
 
 
@@ -51,11 +56,5 @@ Magnetization transfer image
 |    :width: 200                     |    :width: 200                          |    :width: 200                    |    :width: 200                     |
 +------------------------------------+-----------------------------------------+-----------------------------------+------------------------------------+
 
-
-
-A color version using the Jet colormap is available here:
-:download:`color version<./additional_data/test.zip>`
-
-
-
+A color version using the Jet colormap is available here: :download:`color version<./additional_data/mti_measures.zip>`
 
