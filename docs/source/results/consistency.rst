@@ -1,6 +1,9 @@
 Consistency
 ========================
 
+See section `Consistency analysis <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/pipeline/consistency_analysis.html>`_ for the method.
+
+
 Whole-Bundle consistency
 ------------------------
 
