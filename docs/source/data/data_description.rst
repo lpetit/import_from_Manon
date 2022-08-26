@@ -12,6 +12,7 @@ Study design - 20 healthy subjects
 
 .. image:: acquisition_design.png
    :align: center
+   :width: 700
    
 Each MRI session include : 
 
