@@ -8,19 +8,21 @@ Intra Class correlation
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
-  :file: wb_figures/wb_ICC_hm.html
+  :file: wb_measures/wb_ICC_hm.html
+  
   
 Within-Variability
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
-  :file: wb_figures/wb_CVw_hm.html
+  :file: wb_measures/wb_CVw_hm.html
+
 
 Between-variability
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
-  :file: wb_figures/wb_CVb_hm.html
+  :file: wb_measures/wb_CVb_hm.html
 
 
 
@@ -31,7 +33,7 @@ AF
 ~~~
 
 .. raw:: html
-  :file: pb_consistency/af.html
+  :file: pb_consistency/AF.html
   
   
   
