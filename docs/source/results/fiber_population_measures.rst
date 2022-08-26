@@ -1,6 +1,10 @@
 Impact of Fiber population : Measures
 ==========================
 
+See section `Fiber population analysis <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/pipeline/fiber_population.html>`_ for method. 
+
+
+
 Whole-bunlde measures
 ---------------------------
 
