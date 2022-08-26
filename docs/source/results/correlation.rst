@@ -64,23 +64,25 @@ Correlations plots between measures
 In addition to the heatmaps, for each bundle, the corresponding scatterplots show the association between each MRI measurement 
 and display the Pearson correlation coefficient with p-value. Scatterplots for each bundle can be download here : 
 
-+---------+----------------------------------------------------------+---------+----------------------------------------------------------+
-|    AF   |  :download:`color version<./additional_data/AF.zip>`     |  CC 2a  |  :download:`color version<./additional_data/CC_2a.zip>`  |
-+---------+----------------------------------------------------------+---------+----------------------------------------------------------+
-|    CG   |  :download:`color version<./additional_data/CG.zip>`     |  CC 2b  |  :download:`color version<./additional_data/CC_2b.zip>`  |
-+---------+----------------------------------------------------------+---------+----------------------------------------------------------+
-|   CST   |  :download:`color version<./additional_data/CST.zip>`    |   CC 3  |  :download:`color version<./additional_data/CC_3.zip>`   |
-+---------+----------------------------------------------------------+---------+----------------------------------------------------------+
-|   IFOF  |  :download:`color version<./additional_data/IFOF.zip>`   |   CC 4  |  :download:`color version<./additional_data/CC_4.zip>`   |
-+---------+----------------------------------------------------------+---------+----------------------------------------------------------+
-|   ILF   |  :download:`color version<./additional_data/ILF.zip>`    |   CC 5  |  :download:`color version<./additional_data/CC_5.zip>`   |
-+---------+----------------------------------------------------------+---------+----------------------------------------------------------+
-|   OR    |  :download:`color version<./additional_data/OR.zip>`     |   CC 6  |  :download:`color version<./additional_data/CC_6.zip>`   |
-+---------+----------------------------------------------------------+---------+----------------------------------------------------------+
-|  SLF 1  |  :download:`color version<./additional_data/SLF_1.zip>`  |   CC 7  |  :download:`color version<./additional_data/CC_7.zip>`   |
-+---------+----------------------------------------------------------+---------+----------------------------------------------------------+
-|  SLF 2  |  :download:`color version<./additional_data/SLF_2.zip>`  |   UF    |  :download:`color version<./additional_data/UF.zip>`     |
-+---------+----------------------------------------------------------+---------+----------------------------------------------------------+
-|  SLF 3  |  :download:`color version<./additional_data/SLF_3.zip>`  |
-+---------+----------------------------------------------------------+
++---------+-------------------------------------------------+---------+--------------------------------------------------+
+| Bundles |  Dowmload link                                  | Bundles |   Dowmload link                                  |
++=========+=================================================+=========+==================================================+
+|    AF   |  :download:`AF<./additional_data/AF.zip>`       |  CC 2a  |  :download:`CC 2a<./additional_data/CC_2a.zip>`  |
++---------+-------------------------------------------------+---------+--------------------------------------------------+
+|    CG   |  :download:`CG<./additional_data/CG.zip>`       |  CC 2b  |  :download:`CC 2b<./additional_data/CC_2b.zip>`  |
++---------+-------------------------------------------------+---------+--------------------------------------------------+
+|   CST   |  :download:`CST<./additional_data/CST.zip>`     |   CC 3  |  :download:`CC3<./additional_data/CC_3.zip>`     |
++---------+-------------------------------------------------+---------+--------------------------------------------------+
+|   IFOF  |  :download:`IFOF<./additional_data/IFOF.zip>`   |   CC 4  |  :download:`CC4<./additional_data/CC_4.zip>`     |
++---------+-------------------------------------------------+---------+--------------------------------------------------+
+|   ILF   |  :download:`ILF<./additional_data/ILF.zip>`     |   CC 5  |  :download:`CC5<./additional_data/CC_5.zip>`     |
++---------+-------------------------------------------------+---------+--------------------------------------------------+
+|   OR    |  :download:`OR<./additional_data/OR.zip>`       |   CC 6  |  :download:`CC6<./additional_data/CC_6.zip>`     |
++---------+-------------------------------------------------+---------+--------------------------------------------------+
+|  SLF 1  |  :download:`SLF1<./additional_data/SLF_1.zip>`  |   CC 7  |  :download:`CC7<./additional_data/CC_7.zip>`     |
++---------+-------------------------------------------------+---------+--------------------------------------------------+
+|  SLF 2  |  :download:`SLF2<./additional_data/SLF_2.zip>`  |   UF    |  :download:`UF<./additional_data/UF.zip>`        |
++---------+-------------------------------------------------+---------+--------------------------------------------------+
+|  SLF 3  |  :download:`SLF3<./additional_data/SLF_3.zip>`  |         |                                                  |         
++---------+-------------------------------------------------+---------+--------------------------------------------------+
 
