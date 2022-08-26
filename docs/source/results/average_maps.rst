@@ -4,12 +4,12 @@ Averaged measures in common space
 Diffusion DTI
 --------------
 
-+-----------------------------------+----------------------------------+----------------------------------+---------------------------------+
-|                  FA               |                 MD               |                 RD               |                 AD              |
-+===================================+==================================+==================================+=================================+
-| .. image:: averaged_maps/FA.gif   | .. image:: averaged_maps/MD.gif  |  .. image:: averaged_maps/RD.gif | .. image:: averaged_maps/AD.gif |
-|    :width: 200                    |    :width: 200                   |    :width: 200                   |    :width: 200                  |
-+-----------------------------------+----------------------------------+----------------------------------+---------------------------------+
++-----------------------------------+----------------------------------+----------------------------------+----------------------------------+
+|                  FA               |                 MD               |                 RD               |                 AD               |
++===================================+==================================+==================================+==================================+
+| .. image:: averaged_maps/FA.gif   | .. image:: averaged_maps/MD.gif  |  .. image:: averaged_maps/RD.gif | .. image:: averaged_maps/AD.gif  |
+|    :width: 200                    |    :width: 200                   |    :width: 200                   |    :width: 200                   |
++-----------------------------------+----------------------------------+----------------------------------+----------------------------------+
 
 
 Diffusion HARDI
@@ -47,5 +47,5 @@ Magnetization transfer image
 
 
 
-A color version using the Jet colormap is available here: averaged_maps_colors.zip
+A color version using the Jet colormap is available here :download:`Color Version </download/test.zip>`
 
