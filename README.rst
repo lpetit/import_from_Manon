@@ -7,7 +7,6 @@ a short period of time in healthy subjects.
 This dataset was designed to generate enough data per subject to optimize a
 relevant assessment of the consistency of different brain MRI measurements.
 
-See paper : coming soon
 
 https://high-frequency-mri-database-supplementary.rtfd.io
 
