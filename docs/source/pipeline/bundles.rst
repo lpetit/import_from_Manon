@@ -4,7 +4,7 @@ Bundles
 Bundles segmentation
 --------------------
 
-- For the segmentation of bundles we used `Recobundles <https://github.com/scilus/rbx_flow>`__
+- For the segmentation of bundles we used `RecobundlesX <https://github.com/scilus/rbx_flow>`__
 
 .. image:: bundles_segmentation.png
    :align: center
