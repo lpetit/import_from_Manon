@@ -3,9 +3,11 @@ Overview
 
 The high-frequency MRI database is a repeated-measure study that collects
 multiple microstructural MRI data:
-    * anatomical (3DT1 and FLAIR)
-    * multi-shell diffusion weighted images (DWI)
-    * inhomogeneous MT images (ihMT - MTI)
+
+* anatomical (3DT1 and FLAIR)
+* multi-shell diffusion weighted images (DWI)
+* inhomogeneous MT images (ihMT - MTI)
+    
 with a high number of MRI acquisitions over a short period of time in healthy
 subjects. This high-frequency dataset was designed to generate enough data per
 subject to optimize a relevant assessment of the consistency of different brain
