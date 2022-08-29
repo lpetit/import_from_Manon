@@ -89,7 +89,7 @@ Quality control of raw data was performed using DMRIQC flow `DMRIQC flow <https:
 Example of datasets for one subject
 -----------------------------------
 
-** Anatonimal image **
+* Anatonimal image
 
 +---------------------------------+
 |              3D-T1w             | 
@@ -98,7 +98,7 @@ Example of datasets for one subject
 |    :width: 200                  |
 +---------------------------------+
 
-** Diffusion images **
+* Diffusion images
 
 +----------------------------+----------------------------+----------------------------+----------------------------+----------------------------+
 |        DWI - b0            |    DWI - b value = 300     |    DWI - b value = 1000    |    DWI - b value = 2000    |      DWI - Reverse B0      |
@@ -107,7 +107,7 @@ Example of datasets for one subject
 |    :width: 200             |    :width: 200             |    :width: 200             |    :width: 200             |    :width: 200             |
 +----------------------------+----------------------------+----------------------------+----------------------------+----------------------------+
 
-** ihMT images **
+* ihMT images
 
 +--------------------------+-----------------------+-----------------------+-----------------------+-----------------------+----------------------+
 |          MT-Off          |     Positive (pos)    |    Negative (neg)     |  Alternative pos-neg  | Alternative neg-pos   |      T1w ihMT        |
