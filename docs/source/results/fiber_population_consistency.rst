@@ -6,6 +6,9 @@ See section `Fiber population analysis <https://high-frequency-mri-database-supp
 
 Only graphics for ICC are shown. The within-variability and between-variability graphs can be downloaded here:
 
+ :download:`Fiber population - Whole within-variability<./additional_data/fbwhole_cvw.zip>`
+
+ :download:`Fiber population - Whole between-variability<./additional_data/fbwhole_cvb.zip>`
 
 
 
