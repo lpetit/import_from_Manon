@@ -13,8 +13,8 @@ The tools described and used are developed by the Sherbrooke Connectivity Imagin
 
    Edde M., Theaud G., Dumont M., Théberge A., Valcourt-Caron A., Gilbert G.,
    Houde J.C., Maltais L., Rheault F.,Spagnolo F., Barakovic M., Magon S. and Descoteaux M.
-   High frequency longitudinal white matter diffusion- & myelin-based MRI database: Track-profiling stability and more,
-   currently submit at Sciences Data
+   High-frequency longitudinal white matter diffusion- & myelin-based MRI database: reliability and variability,
+   currently submit at Sciences Data.
 
 .. toctree::
    :maxdepth: 1
