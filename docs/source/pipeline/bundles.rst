@@ -31,3 +31,15 @@ agreement between segmentations of the same bundle across sessions.
 
 See section  `Bundles reproducibility <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/results/bundles_reproductibility.html>`_
 for results. 
+
+
+Bundles masking for consistency analysis
+-----------------------------------------
+
+- For the operations to build mask of bundles we used (`SCIL`_) scripts.
+
+ .. _SCIL: http://scil.usherbrooke.ca/en/
+ 
+.. image:: Bundles_masks.png
+   :align: center
+
