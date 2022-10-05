@@ -103,6 +103,7 @@ Fiber population consistency
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Whole bundle
+
 :download:`Whole Bundle - ICC<../results/additional_data/fp_icc_whole.zip>`
 
 :download:`Whole Bundle - Between-Variability<../results/additional_data/fp_cvb_whole.zip>`
@@ -111,6 +112,7 @@ Whole bundle
 
 
 Profile bundle
+
 :download:`Profile Bundle - ICC<../results/additional_data/fp_icc_profile.zip>`
 
 :download:`Profile Bundle - Between-Variability<../results/additional_data/fp_cvb_profile.zip>`
