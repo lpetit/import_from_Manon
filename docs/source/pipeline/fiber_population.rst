@@ -16,7 +16,13 @@ ranging from 1 for the single fiber population to 2 and more for the multiple fi
 
 We apply two thresholds of 1 and ≥2 on the NuFO map to compartmentalize the “average” bundle 
 (i.e., whole bundle) into “single” and “multi” fiber populations compartments, respectively. 
-For this, each voxel of the whole and section masks for each bundle was sorted according to these two thresholds.
+For this, each voxel of the whole and section masks for each bundle was sorted according to these two thresholds using (`SCIL`_) scripts.
+
+ .. _SCIL: http://scil.usherbrooke.ca/en/
+ 
+.. image:: Fiberpopulation_mask.png
+   :align: center
+
 
 See section `Impact of fiber population: measures <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/results/fiber_population_measures.html>`_ for measures distribution according to number of fiber population. 
 
