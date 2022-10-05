@@ -104,19 +104,19 @@ Fiber population consistency
 
 Whole bundle
 
- :download:`Whole Bundle - ICC<../results/additional_data/fp_icc_whole.zip>`
+ :download:`Whole Bundle - Fiber population ICC<../results/additional_data/fp_icc_whole.zip>`
 
- :download:`Whole Bundle - Between-Variability<../results/additional_data/fp_cvb_whole.zip>`
+ :download:`Whole Bundle - Fiber population Between-Variability<../results/additional_data/fp_cvb_whole.zip>`
 
- :download:`Whole Bundle - Within-Variability<../results/additional_data/fp_cvw_whole.zip>`
+ :download:`Whole Bundle - Fiber population Within-Variability<../results/additional_data/fp_cvw_whole.zip>`
 
 
 Profile bundle
 
- :download:`Profile Bundle - ICC<../results/additional_data/fp_icc_profile.zip>`
+ :download:`Profile Bundle - Fiber population ICC<../results/additional_data/fp_icc_profile.zip>`
 
- :download:`Profile Bundle - Between-Variability<../results/additional_data/fp_cvb_profile.zip>`
+ :download:`Profile Bundle - Fiber population Between-Variability<../results/additional_data/fp_cvb_profile.zip>`
 
- :download:`Profile Bundle - Within-Variability<../results/additional_data/fp_cvw_profile.zip>`
+ :download:`Profile Bundle - Fiber population Within-Variability<../results/additional_data/fp_cvw_profile.zip>`
 
 
