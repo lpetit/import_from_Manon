@@ -24,13 +24,17 @@ To generate the bundle-profile (also called track-profiles), Tractometry was app
 bundle to obtain 10 binary mask corresponding to 10 equidistant sections. Each binary mask was then intersected
 with the safe mask. 
 
-.. image:: consistency_pipe.png
+.. image:: Bundles_masks.png
    :align: center
 
 
 Left and right masks were merged for each average and section bundle mask. 
 Finally, DTI, HARDI, NODDI and MTI measures were extracted for each average and segment mask along the bundle 
 for each bundle over session.
+
+The operations to build the mask used `SCIL`_ scripts
+
+ .. _SCIL: http://scil.usherbrooke.ca/en/
 
 
 
