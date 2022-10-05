@@ -3,6 +3,8 @@ Impact of Fiber population : Measures
 
 See section `Fiber population analysis <https://high-frequency-mri-database-supplementary.readthedocs.io/en/latest/pipeline/fiber_population.html>`_ for the method. 
 
+Only graphics for some bundles are displayed. The others bundles graphs can be downloaded here:
+
  :download:`Fiber population - Whole measure<./additional_data/fpwhole_measure.zip>` 
 
  :download:`Fiber population - Profile measure<./additional_data/fpprofile_measure.zip>`
