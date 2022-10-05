@@ -45,5 +45,10 @@ The tools described and used are developed by the Sherbrooke Connectivity Imagin
    results/fiber_population_measures
    results/fiber_population_consistency
 
-   
-   
+.. toctree::  
+   :maxdepth: 1
+   :caption: Download
+
+   download/download_data
+
+
