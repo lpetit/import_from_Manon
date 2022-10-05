@@ -11,17 +11,25 @@ Greys scales version
 ~~~~~~~~~~~~~~~~~~~~~~~
 
  :download:`DTI<../results/additional_data/dti_measures_gs.zip>`
+ 
  :download:`HARDI<../results/additional_data/hardi_measures_gs.zip>`
+ 
  :download:`NODDI<../results/additional_data/noddi_measures_gs.zip>`
+ 
  :download:`MTI<../results/additional_data/mti_measures_gs.zip>`
+ 
 
 A color version using the Jet colormap
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  :download:`DTI color version<../results/additional_data/dti_measures.zip>`
+ 
  :download:`HARDI color version<../results/additional_data/hardi_measures.zip>`
+ 
  :download:`NODDI color version<../results/additional_data/noddi_measures.zip>`
+ 
  :download:`MTI color version<../results/additional_data/mti_measures.zip>`
+ 
 
 Correlations analyses
 ----------------------
@@ -30,6 +38,7 @@ Correlation matrices
 ~~~~~~~~~~~~~~~~~~~~~~
 
  :download:`Correlation matrices<../results/additional_data/correlation_matrices.zip>`
+ 
 
 Correlations plots between measures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -64,13 +73,17 @@ Bundle measures
 ~~~~~~~~~~~~~~~~~~
 
 :download:`Whole Bundle - Measures<../results/additional_data/wb_measures.zip>`
+
 :download:`Profile Bundle - Measures<../results/additional_data/pb_measures.zip>`
+
 
 Fiber population measures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 :download:`Whole Bundle - Measures<../results/additional_data/fpwhole_measure_full.zip>`
+
 :download:`Profile Bundle - Measures<../results/additional_data/fbprofile_measure_full.zip>`
+
 
 
 
@@ -79,8 +92,11 @@ Consistency graphs
 
 Bundle consistency
 ~~~~~~~~~~~~~~~~~~~~
+
 :download:`Whole Bundle - Consistency<../results/additional_data/wb_consistency.zip>`
+
 :download:`Profile Bundle - Consistency<../results/additional_data/pb_consistency.zip>`
+
 
 
 Fiber population consistency
@@ -88,10 +104,17 @@ Fiber population consistency
 
 Whole bundle
 :download:`Whole Bundle - ICC<../results/additional_data/fp_icc_whole.zip>`
+
 :download:`Whole Bundle - Between-Variability<../results/additional_data/fp_cvb_whole.zip>`
+
 :download:`Whole Bundle - Within-Variability<../results/additional_data/fp_cvw_whole.zip>`
+
 
 Profile bundle
 :download:`Profile Bundle - ICC<../results/additional_data/fp_icc_profile.zip>`
+
 :download:`Profile Bundle - Between-Variability<../results/additional_data/fp_cvb_profile.zip>`
+
 :download:`Profile Bundle - Within-Variability<../results/additional_data/fp_cvw_profile.zip>`
+
+
