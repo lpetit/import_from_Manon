@@ -65,7 +65,7 @@ In addition to the heatmaps, for each bundle, the corresponding scatterplots sho
 and display the Pearson correlation coefficient with p-value. Scatterplots for each bundle can be download here : 
 
 +---------+-------------------------------------------------+---------+--------------------------------------------------+
-| Bundles |  Dowmload link                                  | Bundles |   Dowmload link                                  |
+| Bundles |  Download link                                  | Bundles |   Download link                                  |
 +=========+=================================================+=========+==================================================+
 |    AF   |  :download:`AF<./additional_data/AF.zip>`       |  CC 2a  |  :download:`CC 2a<./additional_data/CC_2a.zip>`  |
 +---------+-------------------------------------------------+---------+--------------------------------------------------+
