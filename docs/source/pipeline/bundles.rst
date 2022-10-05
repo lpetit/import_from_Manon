@@ -36,7 +36,7 @@ for results.
 Bundles masking for consistency analysis
 -----------------------------------------
 
-- For the operations to build mask of bundles we used (`SCIL`_) scripts.
+- For the operations to build mask of bundles we used `SCIL`_ scripts.
 
  .. _SCIL: http://scil.usherbrooke.ca/en/
  
