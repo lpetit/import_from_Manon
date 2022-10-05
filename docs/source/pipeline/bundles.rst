@@ -33,13 +33,3 @@ See section  `Bundles reproducibility <https://high-frequency-mri-database-suppl
 for results. 
 
 
-Bundles masking for consistency analysis
------------------------------------------
-
-- For the operations to build mask of bundles we used `SCIL`_ scripts.
-
- .. _SCIL: http://scil.usherbrooke.ca/en/
- 
-.. image:: Bundles_masks.png
-   :align: center
-
