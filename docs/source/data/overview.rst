@@ -1,19 +1,11 @@
 Overview
 ========
 
-The high-frequency MRI database is a repeated-measure study that collects
-multiple microstructural MRI data:
+ExTractorflow is a rule-based automatic pipeline that filters out 
+false-positive streamlines from tractograms by following brain 
+neuroanatomy organizational principles (Meynert 1885; 
+Dejerine and Dejerine-Klumpke 1895, 1901; Ludwig and Klingler 1956; Crosby et al. 1962; Schmahmann and Pandya 2006; Nieuwenhuys et al. 2008).
 
-* anatomical (3DT1 and FLAIR)
-* multi-shell diffusion weighted images (DWI)
-* inhomogeneous MT images (ihMT - MTI)
-    
-with a high number of MRI acquisitions over a short period of time in healthy
-subjects. This high-frequency dataset was designed to generate enough data per
-subject to optimize a relevant assessment of the consistency of different brain
-MRI measurements. The two aspects of consistency, reliability and variability,
-were evaluated using the Intraclass Coefficient correlation (ICC) value and
-within- and between-subject coefficient of variation (CV).
 
 
 Acquisition scheme
@@ -32,19 +24,20 @@ The main steps of the analysis are summarized in the figure below.
    :width: 800
 
 
-MTI : Magnetization Transfer Imaging, DTI: Diffusion Tensor Imaging, NODDI: Neurite Orientation Density and Dispersion Imaging, HARDI : High Angular Resolution Imaging. For a list of metrics see Table of Metrics generated in Pipeline description. 
-
-
-Consistency summary
--------------------
-The main coherence results are summarized in the following figure :
-
-.. image:: summary_consistency.png
-   :align: center
-   :width: 900
-
 Tools
 ------
 The tools described and used are developed by the Sherbrooke Connectivity Imaging Lab (`SCIL`_)
 
  .. _SCIL: http://scil.usherbrooke.ca/en/
+ 
+References
+------
+Crosby E, Humphrey T, Lauer EW (1962) Correlative anatomy of the nervous system. The MacMillan Company, New York.
+Dejerine J, Dejerine-Klumpke A (1895) Anatomie des centres nerveux. Tome 1. Rueff et Cie, Paris.
+Dejerine J, Dejerine-Klumpke A (1901) Anatomie des centres nerveux. Tome 2. Rueff et Cie, Paris.
+Ludwig E, Klingler J (1956) Atlas cerebri humani. S. Karger, Basel.
+Meynert T (1885) Psychiatry: Clinical Treatise on the Diseases of the Fore-Brain, trans. B. Sachs. New York & London: GP Putnam.
+Nieuwenhuys R, Voogd J, van Huijzen C (2008) The human central nervous system. 4th edn. Springer-Verlag, Berlin.
+Schmahmann JD, Pandya DN (2006) Fiber pathways of the brain. Oxford University Press, New York.
+
+
